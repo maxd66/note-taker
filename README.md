@@ -17,3 +17,5 @@ The front-end was provided to me by UCSD Extension Coding Bootcamp. I, however, 
 ## License
 
 The website was developed with the UCSD Coding Bootcamp Extension.
+
+![screenshot of my portfolio webpage](./public/assets/images/screenshot.png)
