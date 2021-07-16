@@ -8,6 +8,7 @@ class Store {
 
     getAll() {
         return readFile(this.path, 'utf-8').then((data) => JSON.parse(data));
+
     }
 
     write(data) {

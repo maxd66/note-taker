@@ -11,9 +11,4 @@ require('./routes/htmlRoutes')(app);
 require('./routes/apiRoutes')(app);
 
 
-app.post('/api/notes', (req, res) => {
-    const newTask = req.body
-
-})
-
 app.listen(PORT, () => console.log(`App listening on PORT ${PORT}`));
